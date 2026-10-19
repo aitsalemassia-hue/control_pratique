@@ -2,4 +2,7 @@ Intitulé : Gestion des missions d’une entreprise
 
 
 
-<img width="876" height="319" alt="image" src="https://github.com/user-attachments/assets/1e86d3c8-b77c-4f76-9922-7fdf1c9c2ad3" />
+test :
+
+
+<img width="1228" height="663" alt="image" src="https://github.com/user-attachments/assets/822c8f3a-2411-4092-af4e-5d9a5f095692" />
