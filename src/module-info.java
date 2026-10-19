@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module control_pratique {
-}
